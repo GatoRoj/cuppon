@@ -1,0 +1,66 @@
+:root{
+  --bs-body-font-family: "Roboto";
+}
+
+.navcolor{
+  background-color: rgba(40,167,69,1);
+}
+.logocabeza img{
+  width: 86pt;
+  height: 25pt;
+}
+
+.card-text{
+  font-weight: 300;
+}
+
+main img{
+  width: 278pt;
+  height: 180pt;
+}
+
+.buttoncolor{
+  color:white;
+}
+
+.ubi p{
+  display: inline-block;
+}
+.ubi h5{
+  display: inline-block;
+  float:right;
+  margin-right: 2px;
+}
+
+.ubi{
+  font-weight: 300;
+}
+
+.precioanterior{
+  display: inline-block;
+  padding-left: 1rem;
+  font-size:1rem;
+  float: right;
+}
+.colorrelleno{
+  margin-top: 12pt;
+  background-color: rgba(40,167,69,1);
+}
+
+section p{
+  font-size: 21px;
+  color:white;
+  text-align: center;
+}
+
+.preciooferta{
+  display: inline-block;
+  padding-left: 12pt;
+  font-size: 20px;
+  color: rgba(40,167,69,1);
+}
+
+.logopie img{
+  width:82pt;
+  height:24pt;
+}
